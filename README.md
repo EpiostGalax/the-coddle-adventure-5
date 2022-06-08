@@ -4,8 +4,9 @@ a game for Teapod OS
 <li>codded in...</li>
 <details>
   <summary>
+    <li>codded in...</li>
+  </summary>
     SEQEL     | 50%
     C         | 30%
     Smalltalk | 20%
-  </summary>
 </details>
